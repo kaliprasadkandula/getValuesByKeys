@@ -1,0 +1,22 @@
+{
+  "name": "getvaluesbykeys",
+  "version": "1.0.2",
+  "description": "helps you to make custom object out of complex object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaliprasadkandula/getValuesByKeys.git"
+  },
+  "keywords": [
+    "getValuesByKeys"
+  ],
+  "author": "kaliprasadkandula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaliprasadkandula/getValuesByKeys/issues"
+  },
+  "homepage": "https://github.com/kaliprasadkandula/getValuesByKeys#readme"
+}
